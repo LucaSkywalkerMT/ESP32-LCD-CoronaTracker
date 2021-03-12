@@ -1,1 +1,1 @@
-# ESP32-TFT-CoronaTracker
+# ESP32-LCD-CoronaTracker
